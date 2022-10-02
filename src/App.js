@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          i was changed on feature branch
+          Learn Rea123ct
         </a>
       </header>
     </div>
